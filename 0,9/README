@@ -1,0 +1,7 @@
+JSScramble will analize your haxe generated js file and scramble all the words till it became unreadable by a human. It acts also as a minificator, your file can be smaller with about 40%
+
+Install it by:
+	haxelib install jsscramble
+
+Usage:
+	haxelib run jsscramble inputFile outputFile

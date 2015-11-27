@@ -1,0 +1,6 @@
+<project name="jsscramble" url="http://ralcr.com" license="BSD">
+    <user name="cristi.baluta"/>
+    <tag v="js"/>
+    <description>Scramble the JS code so none can read it. Another consequence is that the file size will be lowered by up to 40%</description>
+    <version name="0.9">First commit, i assume there are some more reserved words to deal with</version>
+</project>
